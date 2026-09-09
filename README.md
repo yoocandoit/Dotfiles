@@ -1,5 +1,5 @@
 # Dotfiles
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetbrainsMono+Nerd+Font&weight=600&size=35&duration=2000&pause=2000&color=F7F7F7&width=435&lines=ViegPhunt's+Dotfiles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=09F78D&width=435&lines=YOOEVEE+Dotfiles)](https://git.io/typing-svg)
 ### This repository contains **all of my personal dotfiles**
 
 ## 📦 Included Configurations
