@@ -7,8 +7,6 @@ This repository includes configuration for:
 - **Window Managers**: `Hyprland`
 - **Terminals**: `ghostty`
 - **Shells**: `zsh`
-- **Prompt**: `oh-my-posh`
-- **Editors**: `neovim`
 - **Multiplexer**: `tmux`
 - **Status Bar**: `waybar`
 - **Notifications**: `swaync`
@@ -30,17 +28,15 @@ This repository includes configuration for:
 ├── .config/
 │   ├── cava/
 │   ├── colors/         # Color schemes
-│   ├── fontconfig/
+│   ├── fastfetch/
 │   ├── ghostty/
+│   ├── kitty/
 │   ├── hypr/
-│   ├── nvim/
-│   ├── ohmyposh/
 │   ├── rofi/
 │   ├── swaync/
 │   ├── viegphunt/      # Personal scripts
 │   ├── waybar/
 │   └── wlogout/
-├── .stow-local-ignore  # Stow ignore list
 ├── .tmux.conf
 ├── .zshrc
 ├── LICENSE             # License
