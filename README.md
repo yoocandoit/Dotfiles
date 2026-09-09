@@ -16,6 +16,13 @@ This repository includes configuration for:
 - **Logout menu**: `wlogout`
 - **Audio visualizer**: `cava`
 
+### Screenshots
+<p align="center">
+    <img width="1366" height="768" alt="Screenshot_08-Sep_20-44-40_24652" src="https://github.com/user-attachments/assets/c5e99ab7-a791-4635-93db-8cb9df34e62c" />
+    <img width="1366" height="768" alt="Screenshot_08-Sep_20-46-11_4368" src="https://github.com/user-attachments/assets/15e4901a-b09e-4828-859f-b582f456a741" />
+</p>
+
+
 ## 📂 Structure
 
 ```plaintext
