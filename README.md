@@ -21,7 +21,6 @@ It provides a cohesive desktop workflow around Hyprland, including application l
   </a>
 </p>
 
-
 ### This repository contains **all of my personal dotfiles**
 
 ## 📦 Included Configurations
