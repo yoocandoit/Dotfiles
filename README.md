@@ -13,11 +13,11 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
   </a>
 
   <a href="https://github.com/yoocandoit/dotfiles/stargazers">
-    <img src="https://img.shields.io/github/stars/yoocandoit/dotfiles?style=for-the-badge&logo=github" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/yoocandoit/dotfiles?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
   </a>
 
   <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/yoocandoit/nuroneko?style=for-the-badge" alt="License" />
+<img src="https://img.shields.io/github/license/yoocandoit/nuroneko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="License" />
   </a>
 </p>
 
