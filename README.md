@@ -21,9 +21,6 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 </a>
 
 <img src="https://img.shields.io/github/repo-size/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
-</a>
-
-<img src="https://img.shields.io/github/repo-size/yoocandoit/MochaaNeko?style=for-the-badge&label=Repo%20Size&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
 </p>
   </a>
 </p>
