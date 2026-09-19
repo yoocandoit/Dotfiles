@@ -29,7 +29,7 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 
 ---
 
-## ✨ Features
+## 🧩 Components
 This repository includes configuration for:
 - **Window Managers**: `Hyprland`
 - **Terminals**: `ghostty`
@@ -102,16 +102,5 @@ cd MochaaNeko
 └── README.md           # This file
 ```
 ---
-## 🧩 Components
 
-| Component | Application |
-|-----------|-------------|
-| WM | Hyprland |
-| Bar | Waybar |
-| Launcher | Rofi |
-| Terminal | Kitty |
-| Notifications | SwayNC |
-| Lock screen | Hyprlock |
-| Shell | Zsh |
-| Fetch | Fastfetch |
 ## Enjoy My Stuff
