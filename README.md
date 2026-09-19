@@ -1,5 +1,5 @@
 # MochaaNeko
-MochaNeko is a cozy Catppuccin Mocha-inspired Hyprland dotfiles collection focused on simplicity, customization, and a cohesive desktop experience.
+MochaNeko is a cozy Catppuccin Mocha-inspired Hyprland dotfiles collection focused on simplicity, customization, and a cohesive desktop experience ✨.
 
 It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, Hyprlock, wallpaper management, shell tooling, and other desktop utilities. Clone the repository and adapt the configs to build your own setup.
 
@@ -9,7 +9,7 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 
 <p align="center">
   <a href="https://github.com/yoocandoit/Dotfiles/commits">
-    <img src="https://img.shields.io/github/last-commit/yoocandoit/dotfiles?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/yoocandoit/dotfiles?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
   </a>
 
   <a href="https://github.com/yoocandoit/dotfiles/stargazers">
