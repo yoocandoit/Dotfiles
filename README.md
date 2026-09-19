@@ -60,7 +60,7 @@ cd MochaaNeko
 <table align="center">
   <tr>
     <td colspan="3">
-       <img src="mmeta/assets/dekstop.png" alt="Desktop">
+       <img src="meta/assets/dekstop.png" alt="Desktop">
       </a>
     </td>
   </tr>
