@@ -41,6 +41,17 @@ This repository includes configuration for:
 - **Logout menu**: `wlogout`
 - **Audio visualizer**: `cava`
 
+## 📦 Clone
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yoocandoit/MochaaNeko.git
+cd MochaaNeko
+```
+
+> 💜 Feel free to customize the configs and make them your own.
+
 ---
 
 ### Screenshots
