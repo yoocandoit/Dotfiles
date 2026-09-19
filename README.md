@@ -38,10 +38,27 @@ This repository includes configuration for:
 - **Audio visualizer**: `cava`
 
 ### Screenshots
-<p align="center">
-    <img width="1366" height="768" alt="Screenshot_08-Sep_20-44-40_24652" src="https://github.com/user-attachments/assets/c5e99ab7-a791-4635-93db-8cb9df34e62c" />
-    <img width="1366" height="768" alt="Screenshot_08-Sep_20-46-11_4368" src="https://github.com/user-attachments/assets/15e4901a-b09e-4828-859f-b582f456a741" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="3">
+      <a href="https://youtu.be/w_LmZ3DnkMw?si=jRVfj1dQAXsSO_lg">
+        <img src=".meta/assets/video-preview.png" width="100%" alt="Nuroneko Showcase">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src=".meta/assets/rofi.png" alt="Launcher">
+    </td>
+    <td>
+      <img src=".meta/assets/wallpaper.png" alt="Wallpaper">
+    </td>
+    <td>
+      <img src=".meta/assets/keybinds.png" alt="Keybindings">
+    </td>
+  </tr>
+</table>
 
 
 ## 📂 Structure
