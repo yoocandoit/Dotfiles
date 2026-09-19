@@ -29,8 +29,6 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 
 ---
 
-### This repository contains **all of my personal dotfiles**
-
 ## 📦 Included Configurations
 This repository includes configuration for:
 - **Window Managers**: `Hyprland`
