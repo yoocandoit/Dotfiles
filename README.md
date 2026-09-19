@@ -41,6 +41,8 @@ This repository includes configuration for:
 - **Logout menu**: `wlogout`
 - **Audio visualizer**: `cava`
 
+---
+
 ## 📦 Clone
 
 Clone the repository:
