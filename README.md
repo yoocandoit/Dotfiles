@@ -1,7 +1,7 @@
 # MochaaNeko
-Nuroneko is a modular Hyprland environment for people who want a complete Arch Linux or Artix Linux desktop without manually assembling and maintaining dozens of separate configurations.
+MochaNeko is a cozy Catppuccin Mocha-inspired Hyprland dotfiles collection focused on simplicity, customization, and a cohesive desktop experience.
 
-It provides a cohesive desktop workflow around Hyprland, including application launching, notifications, clipboard management, OCR utilities, screenshots, scratchpads, power management, shell tooling, SDDM theme integration, and desktop integration.
+It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, Hyprlock, wallpaper management, shell tooling, and other desktop utilities. Clone the repository and adapt the configs to build your own setup.
 
 <p align="center">
   <img src="meta/assets/logotype.png" width="70%" alt="Mochaa">
