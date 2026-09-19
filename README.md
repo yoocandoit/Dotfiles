@@ -77,11 +77,12 @@ This repository includes configuration for:
 │   ├── hypr/
 │   ├── rofi/
 │   ├── swaync/
-│   ├── viegphunt/      # Personal scripts
+│   ├── arionuzlall/      # Personal scripts
 │   ├── waybar/
 │   └── wlogout/
-├── .tmux.conf
 ├── .zshrc
 ├── LICENSE             # License
 └── README.md           # This file
 ```
+---
+## Enjoy My Stuff
