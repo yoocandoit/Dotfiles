@@ -102,4 +102,16 @@ cd MochaaNeko
 └── README.md           # This file
 ```
 ---
+## 🧩 Components
+
+| Component | Application |
+|-----------|-------------|
+| WM | Hyprland |
+| Bar | Waybar |
+| Launcher | Rofi |
+| Terminal | Kitty |
+| Notifications | SwayNC |
+| Lock screen | Hyprlock |
+| Shell | Zsh |
+| Fetch | Fastfetch |
 ## Enjoy My Stuff
