@@ -97,6 +97,8 @@ cd MochaaNeko
 │   ├── arionuzlall/      # Personal scripts
 │   ├── waybar/
 │   └── wlogout/
+├── meta/
+│   ├── assets           # My Assets
 ├── .zshrc
 ├── LICENSE             # License
 └── README.md           # This file
