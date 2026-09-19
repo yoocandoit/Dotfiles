@@ -12,12 +12,12 @@ It provides a cohesive desktop workflow around Hyprland, including application l
     <img src="https://img.shields.io/github/last-commit/yoocandoit/dotfiles?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
   </a>
 
-  <a href="https://github.com/AikoAii/nuroneko/stargazers">
-    <img src="https://img.shields.io/github/stars/AikoAii/nuroneko?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  <a href="https://github.com/yoocandoit/dotfiles/stargazers">
+    <img src="https://img.shields.io/github/stars/yoocandoit/dotfiles?style=for-the-badge&logo=github" alt="GitHub Stars" />
   </a>
 
   <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/AikoAii/nuroneko?style=for-the-badge" alt="License" />
+    <img src="https://img.shields.io/github/license/yoocandoit/nuroneko?style=for-the-badge" alt="License" />
   </a>
 </p>
 
