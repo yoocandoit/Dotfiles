@@ -29,7 +29,7 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 
 ---
 
-## 📦 Included Configurations
+## ✨ Features
 This repository includes configuration for:
 - **Window Managers**: `Hyprland`
 - **Terminals**: `ghostty`
