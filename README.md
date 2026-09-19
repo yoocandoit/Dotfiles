@@ -17,7 +17,7 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
   </a>
   
   <a href="https://github.com/hyprwm/Hyprland">
-  <img src="https://img.shields.io/badge/Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Hyprland-Dotfiles-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Hyprland Dotfiles" />
 </a>
 
 <img src="https://img.shields.io/github/repo-size/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
