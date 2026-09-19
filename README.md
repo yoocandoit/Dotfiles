@@ -4,7 +4,7 @@ Nuroneko is a modular Hyprland environment for people who want a complete Arch L
 It provides a cohesive desktop workflow around Hyprland, including application launching, notifications, clipboard management, OCR utilities, screenshots, scratchpads, power management, shell tooling, SDDM theme integration, and desktop integration.
 
 <p align="center">
-  <img src=".meta/assets/logo.svg" width="70%" alt="Nuroneko">
+  <img src="meta/assets/logotype.png" width="70%" alt="Nuroneko">
 </p>
 
 <p align="center">
