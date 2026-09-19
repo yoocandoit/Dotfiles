@@ -17,7 +17,7 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
   </a>
 
 <a href="./LICENSE">
-  <img src="https://img.shields.io/github/license/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="License" />
+ <img src="https://img.shields.io/github/license/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="License" />
 </p>
   </a>
 </p>
