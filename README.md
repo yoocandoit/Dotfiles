@@ -103,4 +103,19 @@ cd MochaaNeko
 ```
 ---
 
-## Enjoy My Stuff
+<p align="center">
+  <i>“A little corner of my desktop, crafted with patience and a cup of mocha.”</i>
+</p>
+
+<p align="center">
+  ☕ 🐈‍⬛ 🌙
+</p>
+
+<p align="center">
+  Thanks for stopping by.<br>
+  Feel free to explore, take inspiration, and make it your own.
+</p>
+
+<p align="center">
+  <sub>Made with caffeine, curiosity, and too much time spent ricing.</sub>
+</p>
