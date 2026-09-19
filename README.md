@@ -8,16 +8,16 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 </p>
 
 <p align="center">
-  <a href="https://github.com/yoocandoit/Dotfiles/commits">
-  <img src="https://img.shields.io/github/last-commit/yoocandoit/dotfiles?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
+  <a href="https://github.com/yoocandoit/MochaNeko/commits">
+  <img src="https://img.shields.io/github/last-commit/yoocandoit/MochaNeko?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
   </a>
 
-  <a href="https://github.com/yoocandoit/dotfiles/stargazers">
-    <img src="https://img.shields.io/github/stars/yoocandoit/dotfiles?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
+  <a href="https://github.com/yoocandoit/MochaNeko/stargazers">
+    <img src="https://img.shields.io/github/stars/yoocandoit/MochaNeko?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
   </a>
 
   <a href="./LICENSE">
-<a href="https://github.com/yoocandoit/MochaNeko/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+    <img src="https://img.shields.io/github/license/yoocandoit/MochaNeko?style=for-the-badge" alt="License" />
 </p>
   </a>
 </p>
