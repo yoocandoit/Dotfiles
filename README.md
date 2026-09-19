@@ -8,8 +8,8 @@ It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, H
 </p>
 
 <p align="center">
-  <a href="https://github.com/yoocandoit/MochaNeko/commits">
-  <img src="https://img.shields.io/github/last-commit/yoocandoit/MochaNeko?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
+  <a href="https://github.com/yoocandoit/mochaneko/commits">
+  <img src="https://img.shields.io/github/last-commit/yoocandoit/mochaneko?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
   </a>
 
   <a href="https://github.com/yoocandoit/MochaNeko/stargazers">
