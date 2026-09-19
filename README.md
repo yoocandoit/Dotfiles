@@ -8,8 +8,8 @@ It provides a cohesive desktop workflow around Hyprland, including application l
 </p>
 
 <p align="center">
-  <a href="https://github.com/AikoAii/nuroneko/commits">
-    <img src="https://img.shields.io/github/last-commit/AikoAii/nuroneko?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
+  <a href="https://github.com/yoocandoit/Dotfiles/commits">
+    <img src="https://img.shields.io/github/last-commit/yoocandoit/dotfiles?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
   </a>
 
   <a href="https://github.com/AikoAii/nuroneko/stargazers">
