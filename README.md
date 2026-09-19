@@ -60,21 +60,20 @@ cd MochaaNeko
 <table align="center">
   <tr>
     <td colspan="3">
-      <a href="https://youtu.be/w_LmZ3DnkMw?si=jRVfj1dQAXsSO_lg">
-        <img src=".meta/assets/video-preview.png" width="100%" alt="Nuroneko Showcase">
+       <img src="mmeta/assets/dekstop.png" alt="Desktop">
       </a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <img src=".meta/assets/rofi.png" alt="Launcher">
+      <img src="meta/assets/rofi.png" alt="Launcher">
     </td>
     <td>
-      <img src=".meta/assets/wallpaper.png" alt="Wallpaper">
+      <img src="meta/assets/wallchanger.png" alt="Wallchanger">
     </td>
     <td>
-      <img src=".meta/assets/keybinds.png" alt="Keybindings">
+      <img src="meta/assets/swaync.png" alt="Swaync">
     </td>
   </tr>
 </table>
