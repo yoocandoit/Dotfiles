@@ -37,6 +37,8 @@ This repository includes configuration for:
 - **Logout menu**: `wlogout`
 - **Audio visualizer**: `cava`
 
+---
+
 ### Screenshots
 <table align="center">
   <tr>
@@ -60,6 +62,7 @@ This repository includes configuration for:
   </tr>
 </table>
 
+---
 
 ## 📂 Structure
 
