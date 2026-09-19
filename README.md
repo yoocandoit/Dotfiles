@@ -1,5 +1,26 @@
-# Dotfiles
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=09F78D&width=435&lines=YOOEVEE+Dotfiles)](https://git.io/typing-svg)
+# Mochaa
+Nuroneko is a modular Hyprland environment for people who want a complete Arch Linux or Artix Linux desktop without manually assembling and maintaining dozens of separate configurations.
+
+It provides a cohesive desktop workflow around Hyprland, including application launching, notifications, clipboard management, OCR utilities, screenshots, scratchpads, power management, shell tooling, SDDM theme integration, and desktop integration.
+
+<p align="center">
+  <img src=".meta/assets/logo.svg" width="70%" alt="Nuroneko">
+</p>
+
+<p align="center">
+  <a href="https://github.com/AikoAii/nuroneko/commits">
+    <img src="https://img.shields.io/github/last-commit/AikoAii/nuroneko?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
+  </a>
+
+  <a href="https://github.com/AikoAii/nuroneko/stargazers">
+    <img src="https://img.shields.io/github/stars/AikoAii/nuroneko?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  </a>
+
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/github/license/AikoAii/nuroneko?style=for-the-badge" alt="License" />
+  </a>
+</p>
+
 ### This repository contains **all of my personal dotfiles**
 
 ## 📦 Included Configurations
