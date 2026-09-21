@@ -1,4 +1,12 @@
 # MochaaNeko
+  __  __            _                 _   _      _         
+ |  \/  |          | |               | \ | |    | |        
+ | \  / | ___   ___| |__   __ _  __ _|  \| | ___| | _____  
+ | |\/| |/ _ \ / __| '_ \ / _` |/ _` | . ` |/ _ \ |/ / _ \ 
+ | |  | | (_) | (__| | | | (_| | (_| | |\  |  __/   < (_) |
+ |_|  |_|\___/ \___|_| |_|\__,_|\__,_|_| \_|\___|_|\_\___/ 
+                                                           
+                                                           
 MochaNeko is a cozy Catppuccin Mocha-inspired Hyprland dotfiles collection focused on simplicity, customization, and a cohesive desktop experience ✨.
 
 It includes personal configurations for Hyprland, Waybar, Rofi, Kitty, SwayNC, Hyprlock, wallpaper management, shell tooling, and other desktop utilities. Clone the repository and adapt the configs to build your own setup.
